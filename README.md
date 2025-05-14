@@ -1,5 +1,4 @@
----
-
+# 🦠 COVID-19 Global Data Tracker
 ````markdown
 # 🦠 COVID-19 Global Data Tracker
 
